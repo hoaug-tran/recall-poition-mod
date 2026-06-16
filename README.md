@@ -1,9 +1,10 @@
-# Example Mod
+# Recall Potion Mod
+
+A Fabric mod that adds Recall Potions to teleport players to their bed or death location.
+
+## Features
+- **Home Recall Potion**: Teleports you to your bed location.
+- **Death Recall Potion**: Teleports you to your last death location.
 
 ## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Built for Minecraft 1.21.x with Fabric Loader.
